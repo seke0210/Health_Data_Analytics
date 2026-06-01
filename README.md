@@ -20,7 +20,7 @@ View Code Repository: https://github.com/seke0210/Health_Data_Analytics/blob/mai
 Domain: Global Health Policy & Macroeconomics
 Tech Stack: Python (Pandas, Seaborn, Matplotlib), WHO Public Data
 Description: Engineered a data processing pipeline that merges disparate WHO datasets (Health Financing and Mortality Metrics) to analyze the statistical correlation between financial inputs and population longevity.
-View Code Repository:
+View Code Repository:https://github.com/seke0210/Health_Data_Analytics/blob/main/health_spending_analysis.py
 
 3. Infectious Disease Outbreak Trend Tracker (Ebola)
 Domain: Epidemiology & Public Health Tracking
